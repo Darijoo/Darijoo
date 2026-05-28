@@ -56,7 +56,7 @@ When I'm not coding or soldering, you can find me here:
 
 <br/>
 
-📫 **Let's connect:** [LinkedIn]([https://www.linkedin.com/in/dario-gilles-317619256]) | [Email](mailto:dario.gilles@outlook.com)
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/dario-gilles-317619256) | [Email](mailto:dario.gilles@outlook.com)
 
 <!--
 **Darijoo/Darijoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
