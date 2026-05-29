@@ -6,9 +6,9 @@ I am a passionate IT & IoT student specializing in rapid prototyping and embedde
 
 ---
 
-### 🌟 Featured Project: piStick (Smart Assistive Cane)
+### 🌟 Featured Project: Smart Cane (Smart Assistive Cane)
 
-One of my most advanced projects is the piStick, an assistive mobility solution that brings artificial intelligence directly to edge devices:
+One of my most advanced projects is the Smart Cane, an assistive mobility solution that brings artificial intelligence directly to edge devices:
 * **Edge AI & Computer Vision:** Powered by a Raspberry Pi 5 running YOLOv8 for real-time object detection without relying on cloud processing.
 * **Sensor Fusion:** Seamless integration of ultrasonic sensors to accurately map spatial environments and detect obstacles.
 * **Hardware Integration:** Custom-built housing and component wiring designed for maximum mobility and reliability.
@@ -42,7 +42,7 @@ One of my most advanced projects is the piStick, an assistive mobility solution 
 ### ⚾ Beyond the Screen
 
 When I'm not coding or soldering, you can find me here:
-* **On the baseball field:** As the captain of the Antwerp Eagles, I bring the same focus on strategy, teamwork, and communication to the pitch as I do to my technical projects.
+* **On the baseball field:** As the captain of the Antwerp Eagles BD4, I bring the same focus on strategy, teamwork, and communication to the pitch as I do to my technical projects.
 * **In the kitchen:** Pursuing a professional culinary degree alongside my IT studies. Combining complex technical work with the precision, timing, and creativity of a professional kitchen keeps me balanced.
 
 ---
