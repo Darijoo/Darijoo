@@ -43,16 +43,14 @@ One of my most advanced projects is the Smart Cane, an assistive mobility soluti
 
 When I'm not coding or soldering, you can find me here:
 * **On the baseball field:** As the captain of the Antwerp Eagles BD4, I bring the same focus on strategy, teamwork, and communication to the pitch as I do to my technical projects.
-* **In the kitchen:** Pursuing a professional culinary degree alongside my IT studies. Combining complex technical work with the precision, timing, and creativity of a professional kitchen keeps me balanced.
+* **At the youth movement:** I am actively involved as a leader in a local youth movement, organizing activities and managing their web infrastructure. It’s where I learned to take responsibility and keep a cool head in chaotic situations.
 
 ---
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darijoo&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darijoo&layout=compact&theme=tokyonight" width="48%" />
-</div>
+[![Dario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darijoo&show_icons=true&theme=tokyonight)](https://github.com/Darijoo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darijoo&layout=compact&theme=tokyonight)](https://github.com/Darijoo)
 
 <br/>
 
